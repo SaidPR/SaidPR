@@ -8,4 +8,6 @@ Soy un estudiante apasionado del desarrollo de software con experiencia práctic
 
 # GitHub Stats
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SaidPR&theme=dracula&locale=es)](https://git.io/streak-stats)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SaidPR&layout=compact)
