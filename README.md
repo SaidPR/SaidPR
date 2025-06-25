@@ -42,11 +42,10 @@ Soy un estudiante de Ingeniería en Sistemas enfocado en el desarrollo de softwa
 <img alt="XAMPP" src="https://img.shields.io/badge/XAMPP-FB7A24?style=flat-square&logo=apache&logoColor=white" height="28px"/>
 <img alt="MAMP" src="https://img.shields.io/badge/MAMP-2C3E50?style=flat-square&logo=mamp&logoColor=white" height="28px"/>
 
---
+---
 
 <br/>
 
-<!-- Sistemas operativos -->
 <img alt="Windows" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="40px"/>
 <img alt="Linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40px"/>
 
