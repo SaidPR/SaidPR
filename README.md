@@ -27,9 +27,7 @@ Soy un estudiante de Ingeniería en Sistemas enfocado en el desarrollo de softwa
 
 ## 📈 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaidPR&layout=compact&theme=tokyonight" width="38%" />
-</div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaidPR&layout=compact&theme=tokyonight" width="38%" />
 
 ---
 
