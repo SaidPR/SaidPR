@@ -2,7 +2,6 @@
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:ramoszaid5@gmail.com)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafaelpinones16/)
-[![GitHub Followers](https://img.shields.io/github/followers/SaidPR?style=for-the-badge)](https://github.com/SaidPR)
 
 Soy un estudiante de Ingeniería en Sistemas enfocado en el desarrollo de software y con pasión por crear soluciones reales que generen impacto. Siempre estoy aprendiendo algo nuevo y participando en proyectos que me reten.  
 
@@ -37,22 +36,16 @@ Soy un estudiante de Ingeniería en Sistemas enfocado en el desarrollo de softwa
 
 ## 🚧 Proyectos destacados
 
-- 💼 **[App de Gestión de Producción - React Native + Firebase](https://github.com/SaidPR)**  
-  App móvil con arquitectura MVVM, CRUD completo, notificaciones push y autenticación.
+- 🌱 **[ControlAgro25](https://github.com/SaidPR/ControlAgro25)**  
+  App móvil desarrollada en **React Native + Firebase** para gestionar la producción agrícola.  
+  Incluye registro de actividades, seguimiento en tiempo real, autenticación, y envío de notificaciones push.  
+  Arquitectura basada en **MVVM**, uso de Firestore y Expo Notifications.
 
-- 🌐 **[Sistema web con FastAPI + MongoDB](https://github.com/SaidPR)**  
-  Backend robusto para gestión de usuarios y roles, implementado en un entorno cloud.
-
-- 📡 **Laboratorio Cisco Packet Tracer - Red Corporativa**  
-  Configuración completa de red con VLAN, DHCP, ACL, NAT y VPN GRE.
-
----
-
-## 🧠 Actualmente aprendiendo...
-
-- 🧩 CI/CD con GitHub Actions  
-- 🐳 Docker y despliegue con Vercel  
-- 🌐 Diseño UX/UI para apps móviles  
+- 💐 **[EstefaniaCrea](https://github.com/SaidPR/EstefaniaCrea)**  
+  Sistema de gestión para una floristería local, desarrollado como proyecto de Ingeniería de Software.  
+  Permite gestionar clientes, pedidos, inventario y empleados.  
+  Stack usado: **Python + SQLite**, con interfaz gráfica basada en `tkinter`.  
+  Proyecto enfocado en cubrir procesos reales de negocio con documentación técnica y funcional completa.
 
 ---
 
