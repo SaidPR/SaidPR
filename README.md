@@ -27,6 +27,8 @@ Soy un estudiante de Ingeniería en Sistemas enfocado en el desarrollo de softwa
 <img alt="Node.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40px"/>
 <img alt="FastAPI" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40px"/>
 
+---
+
 <br/>
 
 <!-- Bases de datos -->
@@ -36,11 +38,11 @@ Soy un estudiante de Ingeniería en Sistemas enfocado en el desarrollo de softwa
 <img alt="Firebase" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40px"/>
 <img alt="SQL Server" src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" height="28px"/>
 
+---
+
 <br/>
 
 <!-- Herramientas -->
-<img alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40px"/>
-<img alt="GitHub" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40px"/>
 <img alt="Postman" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40px"/>
 <img alt="Visual Studio" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="40px"/>
 <img alt="Azure DevOps" src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white" height="28px"/>
@@ -48,12 +50,13 @@ Soy un estudiante de Ingeniería en Sistemas enfocado en el desarrollo de softwa
 <img alt="XAMPP" src="https://img.shields.io/badge/XAMPP-FB7A24?style=flat-square&logo=apache&logoColor=white" height="28px"/>
 <img alt="MAMP" src="https://img.shields.io/badge/MAMP-2C3E50?style=flat-square&logo=mamp&logoColor=white" height="28px"/>
 
+---
+
 <br/>
 
 <!-- Sistemas operativos -->
 <img alt="Windows" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="40px"/>
 <img alt="Linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40px"/>
-<img alt="Ubuntu" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="40px"/>
 
 </div>
 
