@@ -62,7 +62,7 @@ Soy un estudiante de Ingeniería en Sistemas enfocado en el desarrollo de softwa
 ## 🚧 Proyectos destacados
 
 - 🧑‍💻 **[Portafolio](https://github.com/SaidPR/Portafolio)**  
-  Bienvenido a mi portafolio personal, un sitio web donde presento quién soy, mis proyectos y tecnologías que utilizo.
+  Mi portafolio personal, un sitio web donde presento quién soy, mis proyectos y tecnologías que utilizo.
   Está construido con React, Vite y utiliza Tailwind CSS vía CDN para un desarrollo rápido y flexible.
   
 - 🌱 **[ControlAgro25](https://github.com/SaidPR/ControlAgro25)**  
