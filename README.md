@@ -34,13 +34,10 @@ Soy un estudiante de Ingeniería en Sistemas enfocado en el desarrollo de softwa
 <img alt="SQLite" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40px"/>
 <img alt="MongoDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40px"/>
 <img alt="Firebase" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40px"/>
-<img alt="SQL Server" src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" height="28px"/>
 <img alt="Postman" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40px"/>
-<img alt="Visual Studio" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="40px"/>
 <img alt="Azure DevOps" src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white" height="28px"/>
 <img alt="MongoDB Compass" src="https://img.shields.io/badge/MongoDB_Compass-47A248?style=flat-square&logo=mongodb&logoColor=white" height="28px"/>
 <img alt="XAMPP" src="https://img.shields.io/badge/XAMPP-FB7A24?style=flat-square&logo=apache&logoColor=white" height="28px"/>
-<img alt="MAMP" src="https://img.shields.io/badge/MAMP-2C3E50?style=flat-square&logo=mamp&logoColor=white" height="28px"/>
 
 ---
 
