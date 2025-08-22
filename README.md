@@ -6,9 +6,9 @@
 Soy un estudiante de Ingeniería en Sistemas enfocado en el desarrollo de software y con pasión por crear soluciones reales que generen impacto. Siempre estoy aprendiendo algo nuevo y participando en proyectos que me reten.  
 
 - 🎓 Formación práctica y académica en desarrollo web y móvil  
-- 🔧 Experiencia con **React Native, Firebase, FastAPI**  
+- 🔧 Experiencia con **React, Firebase, FastAPI**  
 - 📱 Construyendo apps reales con arquitectura **MVVM**  
-- 🚀 Explorando redes, DevOps y despliegue de aplicaciones  
+- 🚀 Explorando DevOps y despliegue de aplicaciones  
 
 ---
 
@@ -17,7 +17,7 @@ Soy un estudiante de Ingeniería en Sistemas enfocado en el desarrollo de softwa
 <div align="left">
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,html,css,js,react,nodejs,sqlite,firebase,mongodb,windows,linux" height="50" alt="Tecnologías" />
+  <img src="https://skillicons.dev/icons?i=python,java,html,css,js,react,sqlite,firebase,mongodb,windows,linux" height="50" alt="Tecnologías" />
 </div>
 
 ---
