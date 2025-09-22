@@ -31,7 +31,7 @@ Soy un estudiante de Ingeniería en Sistemas enfocado en el desarrollo de softwa
 
 - 🧑‍💻 **[Portafolio](https://github.com/SaidPR/Portafolio)**  
   Mi portafolio personal, un sitio web donde presento quién soy, mis proyectos y tecnologías que utilizo.
-  Está construido con React, Vite y utiliza Tailwind CSS vía CDN para un desarrollo rápido y flexible.
+  Está construido con React, Vite y utiliza Tailwind CSS para un desarrollo rápido y flexible.
   
 - 🌱 **[ControlAgro25](https://github.com/SaidPR/ControlAgro25)**  
   App móvil desarrollada en **React Native + Firebase** para gestionar la producción agrícola.  
