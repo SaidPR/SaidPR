@@ -17,7 +17,7 @@ Soy un estudiante de Ingeniería en Sistemas enfocado en el desarrollo de softwa
 <div align="left">
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,html,css,js,react,sqlite,firebase,mongodb,windows,linux" height="50" alt="Tecnologías" />
+  <img src="https://skillicons.dev/icons?i=python,java,html,css,tailwind,js,react,sqlite,mongodb,windows,linux" height="50" alt="Tecnologías" />
 </div>
 
 ---
@@ -48,6 +48,4 @@ Soy un estudiante de Ingeniería en Sistemas enfocado en el desarrollo de softwa
 ---
 
 ## 🙌 ¡Gracias por visitar mi perfil!
-
-_“La mejor forma de predecir el futuro es crearlo.” – Abraham Lincoln_
 
