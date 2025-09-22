@@ -6,9 +6,8 @@
 Soy un estudiante de Ingeniería en Sistemas enfocado en el desarrollo de software y con pasión por crear soluciones reales que generen impacto. Siempre estoy aprendiendo algo nuevo y participando en proyectos que me reten.  
 
 - 🎓 Formación práctica y académica en desarrollo web y móvil  
-- 🔧 Experiencia con **React, Firebase, FastAPI**  
+- 🔧 Experiencia con **React, MongoDB, FastAPI**  
 - 📱 Construyendo apps reales con arquitectura **MVVM**  
-- 🚀 Explorando DevOps y despliegue de aplicaciones  
 
 ---
 
