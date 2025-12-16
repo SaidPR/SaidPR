@@ -5,7 +5,7 @@
 
 Soy un estudiante de Ingeniería en Sistemas enfocado en el desarrollo de software y con pasión por crear soluciones reales que generen impacto. Siempre estoy aprendiendo algo nuevo y participando en proyectos que me reten.  
 
-- 🎓 Formación práctica y académica en desarrollo web y móvil  
+- 🎓 Formación práctica y académica en desarrollo web  
 - 🔧 Experiencia con **React, MongoDB, FastAPI**  
 - 📱 Construyendo apps reales con arquitectura **MVVM**  
 
@@ -16,7 +16,7 @@ Soy un estudiante de Ingeniería en Sistemas enfocado en el desarrollo de softwa
 <div align="left">
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,html,css,tailwind,js,react,sqlite,mongodb,windows,linux" height="50" alt="Tecnologías" />
+  <img src="https://skillicons.dev/icons?i=python,java,html,tailwind,js,react,mongodb,linux" height="50" alt="Tecnologías" />
 </div>
 
 ---
