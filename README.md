@@ -1,44 +1,60 @@
-# 👋 ¡Hola! Soy Said Piñones
+# 👋 ¡Hola! Soy Rafael Ramos
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:ramoszaid5@gmail.com)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafaelpinones16/)
+**Fullstack Developer | [cite_start]Ingeniero en Sistemas Computacionales** Egresado del TecNM con enfoque en crear soluciones web escalables, eficientes y centradas en el usuario[cite: 6, 8, 11].
 
-Soy un estudiante de Ingeniería en Sistemas enfocado en el desarrollo web y con pasión por crear soluciones reales que generen impacto. Siempre estoy aprendiendo algo nuevo y participando en proyectos que me reten.  
+<div align="left">
+  <a href="mailto:ramoszaid5@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/rafaelpinones16/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://saidramos.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portafolio" />
+  </a>
+</div>
 
-- 🎓 Formación práctica y académica en desarrollo web  
-- 🔧 Experiencia con **React, MongoDB, FastAPI**  
-- 📱 Construyendo apps reales con arquitectura **MVVM**  
+---
+
+## 🚀 Sobre mí
+
+Soy un desarrollador apasionado por el ecosistema de **JavaScript** y el desarrollo moderno con **React**. [cite_start]Cuento con experiencia transformando procesos manuales en soluciones digitales funcionales, desde plataformas educativas hasta sistemas de gestión empresarial[cite: 16, 23].
+
+- [cite_start]🎓 **Egresado en Ing. en Sistemas** (TecNM Zamora, 2021-2026)[cite: 11].
+- [cite_start]💡 Especializado en el stack **MERN** (MongoDB, Express, React, Node) y **Python**[cite: 7, 18, 26].
+- [cite_start]🌍 Idiomas: **Español** (Nativo) e **Inglés** (B1 - Intermedio)[cite: 31].
 
 ---
 
 ## 🛠️ Tecnologías y Herramientas
 
-<div align="left">
-
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,html,tailwind,js,react,mongodb,linux" height="50" alt="Tecnologías" />
+  <img src="https://skillicons.dev/icons?i=js,react,vite,tailwind,html,css,python,java,mongodb,firebase,sqlite,git,github,linux,postman,vscode" height="50" alt="Tecnologías" />
 </div>
 
 ---
 
-## 🚧 Proyectos destacados
+## 🏗️ Proyectos Destacados
 
-- 🧑‍💻 **[Portafolio](https://github.com/SaidPR/Portafolio)**  
-  Mi portafolio personal, un sitio web donde presento quién soy, mis proyectos y tecnologías que utilizo.
-  Está construido con React, Vite y utiliza Tailwind CSS para un desarrollo rápido y flexible.
-  
-- 🌱 **[ControlAgro25](https://github.com/SaidPR/ControlAgro25)**  
-  App móvil desarrollada en **React Native + Firebase** para gestionar la producción agrícola.  
-  Incluye registro de actividades, seguimiento en tiempo real, autenticación, y envío de notificaciones push.  
-  Arquitectura basada en **MVVM**, uso de Firestore y Expo Notifications.
+### 🏫 [Rediseño Completo y Blog Institucional - Colegio Pierre Faure](https://github.com/SaidPR/)
+**React | Tailwind CSS | Python | MongoDB** Rediseño y modernización de la plataforma académica de extremo a extremo. [cite_start]Automaticé el flujo editorial permitiendo una gestión de contenido autónoma para el equipo docente[cite: 16, 18, 19].
 
-- 💐 **[Florist Management](https://github.com/SaidPR/EstefaniaCrea)**  
-  Sistema de gestión para floristería local.  
-  Permite gestionar clientes, pedidos, inventario y empleados.  
-  Stack usado: **Python + SQLite**, con interfaz gráfica basada en `tkinter`.  
-  Proyecto enfocado en cubrir procesos reales de negocio con documentación técnica y funcional completa.
+### 🍎 [ControlAgro](https://github.com/SaidPR/ControlAgro25)
+**React Native | Firebase | MVVM** Aplicación para la gestión integral de operaciones agrícolas. Incluye seguimiento en tiempo real, notificaciones push y arquitectura robusta para manejo de datos en campo.
+
+### 💐 [Florist Management](https://github.com/SaidPR/EstefaniaCrea)
+**Python | SQLite | Tkinter** Sistema de escritorio para la gestión de ventas, inventarios y pedidos. [cite_start]Reduje errores operativos y facilité la toma de decisiones mediante reportes automatizados[cite: 22, 24, 25].
 
 ---
 
-## 🙌 ¡Gracias por visitar mi perfil!
+## 📈 Estadísticas de GitHub
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SaidPR&show_icons=true&theme=dark&hide_border=true" alt="Estadísticas de Said" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaidPR&layout=compact&theme=dark&hide_border=true" alt="Lenguajes más usados" height="150" />
+</div>
+
+---
+
+## 🙌 ¡Conectemos!
+Siempre estoy abierto a colaborar en proyectos desafiantes o charlar sobre desarrollo web.
